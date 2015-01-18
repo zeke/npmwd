@@ -1,0 +1,22 @@
+{
+  "name": "npmwd",
+  "version": "1.0.0",
+  "description": "Open the npm package URL that matches your shell's current working directory",
+  "keywords": [
+    "npm",
+    "package",
+    "productivity",
+    "shortcut",
+    "bash"
+  ],
+  "repository": "https://github.com/zeke/npmwd",
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "ISC",
+  "bin": {
+    "npmwd": "./bin/npmwd.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "open": "0.0.5"
+  }
+}
