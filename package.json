@@ -1,6 +1,6 @@
 {
   "name": "npmwd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open the npm package URL that matches your shell's current working directory",
   "keywords": [
     "npm",
